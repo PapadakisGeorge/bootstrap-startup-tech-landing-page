@@ -142,6 +142,10 @@ p {
     text-align: center;
 }
 
+.pricing-cards-container {
+    justify-content: center;
+}
+
 .pricing-card {
     background-color: #EEEDED;
     border-color: #2D132C;
